@@ -1,0 +1,18 @@
+
+GVG Production View:
+http://vhghdds4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGVG_PROD_CDS/YGVG_PROD
+
+
+GVG Stock Closing
+http://vhghdds4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGVG_STOCK_PBI_CDS/YGVG_STOCK_PBI
+
+
+GVG ACDOCA TRIAL
+http://vhghdds4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGVG_ACDOCA_TRIAL_CDS/YGVG_ACDOCA_TRIAL
+
+
+
+GVG STOCK VAluation pbi 
+http://vhghdds4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGVG_STCK_VAL_PBI_CDS/YGVG_STCK_VAL_PBI
+
+

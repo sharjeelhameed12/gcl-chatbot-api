@@ -1,0 +1,4 @@
+
+
+GMRI SALES KPI
+http://vhghdds4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGMRI_SALE_PBI_MAIN_CDS/YGMRI_SALE_PBI_MAIN

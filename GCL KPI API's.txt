@@ -1,0 +1,21 @@
+Bank Position Report
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YBPR_ALL_CDS/YBPR_ALL
+FG Stock GCL
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YFG_STOCK_GCL_CDS/YFG_STOCK_GCL
+GCL Customer Ledger
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGCL_CL_MAIN_CDS/YGCL_CL_MAIN
+
+GCL Stock Valuation
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGCL_STOCK_VAL_1_CDS/YGCL_Stock_Val_1
+Payment  Details
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YPAYMENTS_DETAILS_CDS/YPAYMENTS_DETAILS
+GCL SALE 
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/ZGCL_SALE_MAIN_CDS/ZGCL_SALE_MAIN
+
+GCL Trial ACDOCA
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGCL_ACDOCA_TRIAL_CDS/YGCL_ACDOCA_TRIAL
+
+GCL Production 
+http://vhghdps4ap01.sap.ghani.com:8000/sap/opu/odata/sap/YGCL_PROD_CDS/YGCL_PROD
+
+

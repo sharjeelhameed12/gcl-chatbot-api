@@ -1,0 +1,50 @@
+Passwords For AC_ABAP :
+
+SAP 100: 
+Abaper@123456789
+
+
+SAP 120
+Ghani@123456789
+
+SAP 300:
+Pakistan@1122334455
+
+
+sap 140 :
+Abaper@123456789
+
+
+My Email
+GhaniGlass@949@
+Ghani@1122334455
+
+
+
+
+119.159.229.73:1521/PROD
+apps
+apps
+
+
+119.159.229.73:1526/ORCLPDB.GHANIGROUPOFINDUSTRIES.COM
+GCLPBI
+Admin123
+
+
+Power BI Servers:
+
+172.16.2.43
+user: power-bi
+pass: 786
+
+yasir.saeed@ghaniglass.com
+Glass@321@
+
+172.16.3.223
+user :  i.t 
+pass: 786
+
+director.bi@ghaniceramics.com
+GCL@949@
+
