@@ -1,6 +1,0 @@
-Router String for Sap client Development
-/H/202.59.91.29
-
-Router String for Sap client Production
-
-/H/202.59.91.29
